@@ -1,0 +1,24 @@
+{
+    "EHC_Plan_Prompts": {
+        "Child_Young_Person_History": {
+            "Prompt": "Generate a detailed history of the child or young person. Include information on their educational background, significant milestones, and any relevant social or family history. Avoid including any personally identifiable information (PII) such as full names, email addresses, or phone numbers. Focus on providing a comprehensive overview of the child's background and development.",
+            "Example_Output": "The child has been enrolled in mainstream education since the age of 5. They have consistently shown an interest in reading and writing, often participating actively in class discussions. The child has a supportive family environment with parents who are actively involved in their education. Over the years, the child has developed strong friendships and is well-liked by peers. They have participated in various extracurricular activities including the school's drama club and chess team."
+        },
+        "Views_Interests_Strengths_Aspirations": {
+            "Prompt": "Describe the views, interests, strengths, and aspirations of the child or young person. Include details about their personal goals, hobbies, and what they enjoy doing in their free time. Highlight their strengths both academically and socially, and any future aspirations they have shared. Ensure the description is positive and encouraging without including any PII.",
+            "Example_Output": "The child expresses a strong interest in science and aspires to become a scientist in the future. They enjoy conducting experiments and learning about new scientific concepts. In their free time, the child loves playing football and reading mystery novels. Academically, they excel in mathematics and have a natural aptitude for problem-solving. Socially, the child is a confident communicator and often takes on leadership roles in group activities. They aspire to attend university and pursue a degree in chemistry."
+        },
+        "Special_Educational_Needs_Provision": {
+            "Prompt": "Detail the special educational needs (SEN) of the child or young person and the specific provisions required to support their learning. Include information on any learning difficulties or disabilities and the types of support and interventions that have been or should be put in place to help them succeed academically. Avoid including any PII and focus on the educational needs and strategies.",
+            "Example_Output": "The child has been diagnosed with dyslexia, which affects their ability to read and write. To support their learning, the school has implemented several interventions, including one-on-one reading sessions, the use of assistive technology, and extended time for tests and assignments. The child benefits from a structured learning environment and additional support in literacy classes. Regular assessments are conducted to monitor progress and adjust the support plan as needed."
+        },
+        "Health_Care_Needs_Related_to_SEN": {
+            "Prompt": "Describe the health care needs of the child or young person that are related to their special educational needs (SEN). Include information on any medical conditions, treatments, or therapies that are required to support their health and well-being in the educational setting. Avoid including any PII and focus on the health care requirements and provisions.",
+            "Example_Output": "The child has asthma, which requires regular monitoring and the use of an inhaler during school hours. The school has an asthma action plan in place, ensuring that staff are trained to recognize symptoms and provide appropriate care. The child also attends regular physiotherapy sessions to manage coordination difficulties associated with their SEN. These sessions are integrated into the school timetable to minimize disruption to their learning."
+        },
+        "Social_Care_Needs": {
+            "Prompt": "Outline the social care needs of the child or young person. Include details about any social or emotional support required, such as counselling, mentoring, or assistance with social skills development. Describe any relevant family or home environment factors that impact the child’s social care needs. Avoid including any PII and focus on the social care support and services needed.",
+            "Example_Output": "The child receives regular counseling sessions to support their emotional well-being and help them manage anxiety. These sessions focus on building coping strategies and enhancing social skills. The child benefits from a mentoring program where they are paired with an older student who provides guidance and support. At home, the family receives support from a social worker to ensure a stable and nurturing environment. The child also participates in social skills groups to improve interactions with peers."
+        }
+    }
+}
